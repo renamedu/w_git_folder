@@ -1,4 +1,6 @@
 <?php
+// /var/www/html/logs.php
+// http://192.168.0.184/logs.php
 // Путь к файлу логов
 $logFile = '/var/log/crond.log';
 
